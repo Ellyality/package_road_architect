@@ -1,0 +1,15 @@
+{
+  "name": "com.ellyality.prototype.road_architech",
+  "version": "1.0.0",
+  "displayName": "Road Architech",
+  "description": "Generate roads on the terrain",
+  "keywords": [
+    "editor",
+    "terrain",
+    "road",
+    "tools",
+    "utility"
+  ],
+  "author": "Elly Prototype",
+  "unity": "2019.3"
+}
